@@ -10,3 +10,7 @@
 ``` javascript
 console.log("hellow world")
 ```
+
+- [X] build shelter
+- [X] mine diamonds
+- [ ] kill ender dragon
